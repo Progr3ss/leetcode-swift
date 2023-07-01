@@ -1,1 +1,1 @@
-Learning Pattersn for solving code problems
+Learning Algorithm Patterns for solving code problems
